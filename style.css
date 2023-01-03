@@ -93,6 +93,6 @@ text-decoration: solid;
     position: fixed;
     width: 100%;
     left: 0px;
-    height: 10%;
+    height: -10%;
     row-gap: 1%;
 }
